@@ -13,3 +13,16 @@ C:\Users\<username>\Downloads\ManWaDownloads\<만화 제목>\<각 에피소드 �
 ## Demo ##
 
 ![](https://github.com/hyunR/ManWaDownloader/blob/master/demo.gif)
+
+## Version ##
+
+#### version 1.0.0  ####
+
+- Dec 23rd 2018
+- initial commit with mpv
+- features to be added 
+  - detect user's diretory and do auto update for each manwha 
+  - change download path
+  - change UI for current download page
+  - add icons 
+  
