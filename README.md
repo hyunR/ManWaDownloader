@@ -19,7 +19,7 @@ C:\Users\<username>\Downloads\ManWaDownloads\<만화 제목>\<각 에피소드 �
 #### version 1.0.0  ####
 
 - Dec 23rd 2018
-- initial commit with mpv
+- initial commit with mvp
 - features to be added 
   - detect user's diretory and do auto update for each manwha 
   - change download path
