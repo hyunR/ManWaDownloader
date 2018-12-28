@@ -21,10 +21,10 @@ C:\Users\<username>\Downloads\ManWaDownloads\<만화 제목>\<각 에피소드 �
 - Dec 23rd 2018
 - initial commit with mvp
 - features to be added 
-  - ~~detect user's diretory and do auto update for each manwha
-  - ~~change download path
-  - change UI for current download page
-  - ~~add icons 
+  - ~~detect user's diretory and do auto update for each manwha~~ added ver 1.0.1
+  - ~~change download path~~ added ver 1.0.1
+  - change UI for current download page postponed
+  - ~~add icons~~ added ver 1.0.1
   
 
 #### version 1.0.1  ####
